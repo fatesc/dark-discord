@@ -1,9 +1,7 @@
-# Dark Discord [![CodeFactor](https://www.codefactor.io/repository/github/slow/dark-discord/badge)](https://www.codefactor.io/repository/github/slow/dark-discord) [![GitHub issues](https://img.shields.io/github/issues/slow/dark-discord?style=flat)](https://github.com/slow/dark-discord/issues) [![GitHub stars](https://img.shields.io/github/stars/slow/dark-discord?style=flat)](https://github.com/slow/dark-discord/stargazers)
-An actual dark mode for discord.
+Credits go to https://github.com/slow/dark-discord this is simply a fork that made it lighter.
 
 # Downloads
-- [BetterDiscord](https://betterdiscord.net/ghdl?id=3420)
-- Powercord: `git clone https://github.com/slow/dark-discord/`
+- Powercord: `git clone https://github.com/Not-Cyrus/dark-discord`
 
 # Preview
-<img src="https://media.wtf/93320759"/>
+![](Image.png)
